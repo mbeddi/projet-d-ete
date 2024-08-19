@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\beddi\\source\\repos\\project\\project.Server\\..\\project.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

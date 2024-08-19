@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\project.client",
+    "\\project.client\\src",
+    "\\project.client\\src\\app",
+    "\\project.client\\src\\app\\componets",
+    "\\project.client\\src\\app\\helpers",
+    "\\project.client\\src\\assets",
+    "\\project.client\\src\\assets\\css",
+    "\\project.Server",
+    "\\project.Server\\Properties"
+  ],
+  "SelectedNode": "\\project.sln",
+  "PreviewInSolutionExplorer": false
+}
