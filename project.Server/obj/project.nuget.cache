@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bwGZzvCTWb8=",
+  "dgSpecHash": "YB8lY6Een1o=",
   "success": true,
   "projectFilePath": "C:\\Users\\beddi\\source\\repos\\project\\project.Server\\project.Server.csproj",
   "expectedPackageFiles": [
@@ -57,6 +57,7 @@
     "C:\\Users\\beddi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\beddi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\beddi\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\beddi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
     "C:\\Users\\beddi\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\beddi\\.nuget\\packages\\mysql.data\\9.0.0\\mysql.data.9.0.0.nupkg.sha512",
     "C:\\Users\\beddi\\.nuget\\packages\\mysql.entityframeworkcore\\8.0.5\\mysql.entityframeworkcore.8.0.5.nupkg.sha512",
